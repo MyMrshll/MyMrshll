@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **We Can Dev**
 
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **ALL ABOUT IT**
 
