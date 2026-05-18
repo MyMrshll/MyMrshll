@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ferta Junindi</h1>
-<h3 align="center">A passionate Backend Developer and IT Enthusiast</h3>
+<h3 align="center">A passionate  IT Enthusiast</h3>
 
 - 🔭 I’m currently working on **We Can Dev**
 
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **ALL ABOUT IT**
 
 - 💬 Ask me about **ALL ABOUT IT**
 
-- 📫 How to reach me **ferta966@gmail.com**
+- 📫 How to reach me **fertajunindi23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fertajunindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fertajunindi" height="30" width="40" /></a>
-<a href="https://instagram.com/fertanindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fertanindi" height="30" width="40" /></a>
+<a href="https://instagram.com/fertajunindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fertanindi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
