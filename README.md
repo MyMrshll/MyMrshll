@@ -1,24 +1,24 @@
-
 <div align="center">
+
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=F7C59F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast)
- 
-#  Ferta Junindi
- 
+
+# 🔥 Ferta Junindi
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mymrshll&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mymrshll?label=FOLLOWERS&style=for-the-badge&color=f7c59f&labelColor=1a1a2e)](https://github.com/mymrshll)
- 
+
 > *"Some code can change the world"*
- 
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
- 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferta@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ferta.dev)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.ferta.dev)
- 
+
 </div>
 
 ---
@@ -32,16 +32,16 @@ current_job: Full Stack Developer
 fields_of_interest:
   - Web Development
   - Artificial Intelligence
-  - Cyber Security
+  - Machine Learning
 
 currently_exploring:
   - Building scalable web apps with Next.js + Express
   - Experimenting with AI and Machine Learning
   - Sharing insights via personal blog
-  - Currently learning Cyber Security
+  - Currently learning GoLang
   - Exploring Prisma ORM with PostgreSQL
 
-tech_stack: node.js · typescript · react · next.js · golang · prisma - python
+tech_stack: node.js · typescript · react · next.js · golang · prisma
 
 fun_fact: I spend ~8 hours a day coding 💻
 ```
@@ -112,12 +112,17 @@ fun_fact: I spend ~8 hours a day coding 💻
 ---
 
 ## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=mymrshll&theme=radical&hide_border=true" width="48%" />
-</div>
----
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mymrshll&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=mymrshll&theme=radical&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymrshll&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -147,5 +152,7 @@ fun_fact: I spend ~8 hours a day coding 💻
 ---
 
 *⭐ If you find my projects useful, consider giving them a star!*
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=FF6B35&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%94%A5)
 
 </div>
