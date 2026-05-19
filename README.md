@@ -2,7 +2,7 @@
 
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=F7C59F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast)
 
-# 🔥 Ferta Junindi
+# Ferta Junindi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mymrshll&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mymrshll?label=FOLLOWERS&style=for-the-badge&color=f7c59f&labelColor=1a1a2e)](https://github.com/mymrshll)
@@ -32,7 +32,8 @@ current_job: Full Stack Developer
 fields_of_interest:
   - Web Development
   - Artificial Intelligence
-  - Machine Learning
+  - Netwrok Administrator
+  - Cyber Security
 
 currently_exploring:
   - Building scalable web apps with Next.js + Express
@@ -115,10 +116,7 @@ fun_fact: I spend ~8 hours a day coding 💻
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mymrshll&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=mymrshll&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymrshll&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 
 </div>
 
