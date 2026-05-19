@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hey there, I'm **Ferta Junindi** 👋🔥
-### Full Stack Developer | AI & ML Enthusiast
+# Hey there, I'm **Ferta Junindi** 
+### IT Enthusiast
 
 > *"Some code can change the world"*
 
@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ferta.dev)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.ferta.dev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=fertajunindi&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=mymrshll&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
@@ -33,13 +33,13 @@ fields_of_interest:
   - Machine Learning
 
 currently_exploring:
-  - Building scalable web apps with Laravel + React
+  - Building scalable web apps with Next.js + Express
   - Experimenting with AI and Machine Learning
   - Sharing insights via personal blog
-  - Currently learning TypeScript with Next.js
-  - Other exciting things at fertajunindi.com
+  - Currently learning GoLang
+  - Exploring Prisma ORM with PostgreSQL
 
-tech_stack: node.js · typescript · react · laravel · python
+tech_stack: node.js · typescript · react · next.js · golang · prisma
 
 fun_fact: I spend ~8 hours a day coding 💻
 ```
@@ -49,11 +49,11 @@ fun_fact: I spend ~8 hours a day coding 💻
 ## 🌟 Highlights
 
 - 🏔️ **Arctic Code Vault Contributor**
-- 🏗️ Building scalable web apps with **Laravel + React**
-- 📝 Sharing insights via [fertajunindi.com](https://fertajunindi.com)
-- 📘 Currently learning **TypeScript** with **Next.js**
+- 🏗️ Building scalable web apps with **Next.js + Express**
+- 📝 Sharing insights via personal blog
+- 📘 Currently learning **GoLang**
 - 🤖 Experimenting with **AI and Machine Learning**
-- 📬 Reach me: [@fertajunindi](https://twitter.com/fertajunindi)
+- 📬 Reach me: [@mymrshll](https://github.com/mymrshll)
 - ⚡ Fun fact: Coding **12 hours/day, 5 days/week**
 
 ---
@@ -63,21 +63,21 @@ fun_fact: I spend ~8 hours a day coding 💻
 ### 💬 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔧 Backend
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🎨 Frontend
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -87,6 +87,8 @@ fun_fact: I spend ~8 hours a day coding 💻
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### 🗄️ Database & DevOps
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -111,10 +113,10 @@ fun_fact: I spend ~8 hours a day coding 💻
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fertajunindi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fertajunindi&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mymrshll&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mymrshll&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertajunindi&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymrshll&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 
 </div>
 
@@ -124,7 +126,7 @@ fun_fact: I spend ~8 hours a day coding 💻
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=fertajunindi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mymrshll&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -134,7 +136,7 @@ fun_fact: I spend ~8 hours a day coding 💻
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fertajunindi&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mymrshll&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area=true&hide_border=true)
 
 </div>
 
