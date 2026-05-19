@@ -1,8 +1,7 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7c59f,100:1a1a2e&height=200&section=header&text=Ferta%20Junindi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 <br/>
-### IT Entushiast
+### 🔥 Full Stack Developer
  
 ![Profile Views](https://komarev.com/ghpvc/?username=mymrshll&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mymrshll?label=FOLLOWERS&style=for-the-badge&color=f7c59f&labelColor=1a1a2e)](https://github.com/mymrshll)
@@ -21,6 +20,7 @@
 > *"Some code can change the world"*
  
 </div>
+
 ---
 
 ## 🚀 About Me
