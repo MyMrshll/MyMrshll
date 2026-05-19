@@ -30,16 +30,16 @@ current_job: Full Stack Developer
 fields_of_interest:
   - Web Development
   - Artificial Intelligence
-  - Machine Learning
+  - Cyber Security
 
 currently_exploring:
   - Building scalable web apps with Next.js + Express
   - Experimenting with AI and Machine Learning
   - Sharing insights via personal blog
-  - Currently learning GoLang
+  - Currently learning Cyber Security
   - Exploring Prisma ORM with PostgreSQL
 
-tech_stack: node.js · typescript · react · next.js · golang · prisma
+tech_stack: node.js · typescript · react · next.js · golang · prisma - python
 
 fun_fact: I spend ~8 hours a day coding 💻
 ```
