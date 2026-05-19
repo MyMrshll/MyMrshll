@@ -110,17 +110,14 @@ fun_fact: I spend ~8 hours a day coding 💻
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mymrshll&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mymrshll&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymrshll&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=mymrshll&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=mymrshll&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymrshll&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 </div>
-
 ---
+
 
 ## 🏆 GitHub Trophies
 
