@@ -1,12 +1,14 @@
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7c59f,100:1a1a2e&height=200&section=header&text=Ferta%20Junindi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-<br/>
-### 🔥 Full Stack Developer
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=F7C59F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast)
+ 
+#  Ferta Junindi
  
 ![Profile Views](https://komarev.com/ghpvc/?username=mymrshll&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mymrshll?label=FOLLOWERS&style=for-the-badge&color=f7c59f&labelColor=1a1a2e)](https://github.com/mymrshll)
  
-<br/>
+> *"Some code can change the world"*
+ 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)
@@ -16,8 +18,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferta@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ferta.dev)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.ferta.dev)
- 
-> *"Some code can change the world"*
  
 </div>
 
