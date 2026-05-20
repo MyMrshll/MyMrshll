@@ -116,7 +116,7 @@ fun_fact: I spend ~8 hours a day coding 💻
 
 <div align="center">
 
-<img src="[https://streak-stats.demolab.com?user=mymrshll&theme=radical&hide_border=true](https://streak-stats.demolab.com/?user=mymrshll&theme=radical&hide_border=true)" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mymrshll&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
