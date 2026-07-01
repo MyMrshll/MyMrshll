@@ -23,8 +23,7 @@
 
 ---
 
-## 🚀 About Me
-
+## 🚀 About Mee
 ```yaml
 name: Ferta Junindi
 location: Indonesia 🇮🇩
